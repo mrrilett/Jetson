@@ -15,4 +15,4 @@ To install some initial external packages within VS Code, open up the terminal (
   
 > NOTE: If you are using multiple Python versions or virtual environments, and pip install ... does not work, use py -m pip install ... instead.
 
-Now you're ready. [Move on to coding] (Jetson/GetCoding.md)
+Now you're ready. [Move on to coding](https://github.com/mrrilett/Jetson/blob/main/GetCoding.md)
