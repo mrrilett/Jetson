@@ -1,6 +1,7 @@
 # Jetson Robotic Arm
+Curious where to start? Well, you've made it to the right place. Install the required software and packages in the steps below before moving on to programming your robot.  
+<img src=https://github.com/user-attachments/assets/4c43dd2d-316d-4116-8d0a-8dfdac6a7779 height=25% width=25%>
 
-Curious where to start? Well, you've made it to the right place. Install the required software and packages in the steps below before moving on to programming your robot. 
 
 ## 1. Download the Required Software  
 Using the software center, you will need to install the software below. If you have previously installed any of these without the Software Center installer, you will need to uninstall and then re-install. 
